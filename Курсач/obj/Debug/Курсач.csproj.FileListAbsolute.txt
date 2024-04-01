@@ -1,0 +1,40 @@
+C:\Users\Деметрий\source\repos\Курсач\Курсач\bin\Debug\Курсач.exe.config
+C:\Users\Деметрий\source\repos\Курсач\Курсач\bin\Debug\Курсач.exe
+C:\Users\Деметрий\source\repos\Курсач\Курсач\bin\Debug\Курсач.pdb
+C:\Users\Деметрий\source\repos\Курсач\Курсач\obj\Debug\Курсач.csprojAssemblyReference.cache
+C:\Users\Деметрий\source\repos\Курсач\Курсач\obj\Debug\Курсач.Form1.resources
+C:\Users\Деметрий\source\repos\Курсач\Курсач\obj\Debug\Курсач.Properties.Resources.resources
+C:\Users\Деметрий\source\repos\Курсач\Курсач\obj\Debug\Курсач.csproj.GenerateResource.cache
+C:\Users\Деметрий\source\repos\Курсач\Курсач\obj\Debug\Курсач.csproj.CoreCompileInputs.cache
+C:\Users\Деметрий\source\repos\Курсач\Курсач\obj\Debug\Курсач.exe
+C:\Users\Деметрий\source\repos\Курсач\Курсач\obj\Debug\Курсач.pdb
+C:\Users\Деметрий\Desktop\Вся хуйня\Акдмрзнца\Курсач\Курсач\bin\Debug\Курсач.exe.config
+C:\Users\Деметрий\Desktop\Вся хуйня\Акдмрзнца\Курсач\Курсач\bin\Debug\Курсач.exe
+C:\Users\Деметрий\Desktop\Вся хуйня\Акдмрзнца\Курсач\Курсач\bin\Debug\Курсач.pdb
+C:\Users\Деметрий\Desktop\Вся хуйня\Акдмрзнца\Курсач\Курсач\bin\Debug\OxyPlot.dll
+C:\Users\Деметрий\Desktop\Вся хуйня\Акдмрзнца\Курсач\Курсач\bin\Debug\OxyPlot.WindowsForms.dll
+C:\Users\Деметрий\Desktop\Вся хуйня\Акдмрзнца\Курсач\Курсач\bin\Debug\OxyPlot.xml
+C:\Users\Деметрий\Desktop\Вся хуйня\Акдмрзнца\Курсач\Курсач\bin\Debug\OxyPlot.WindowsForms.xml
+C:\Users\Деметрий\Desktop\Вся хуйня\Акдмрзнца\Курсач\Курсач\obj\Debug\Курсач.csproj.AssemblyReference.cache
+C:\Users\Деметрий\Desktop\Вся хуйня\Акдмрзнца\Курсач\Курсач\obj\Debug\Курсач.Form1.resources
+C:\Users\Деметрий\Desktop\Вся хуйня\Акдмрзнца\Курсач\Курсач\obj\Debug\Курсач.Properties.Resources.resources
+C:\Users\Деметрий\Desktop\Вся хуйня\Акдмрзнца\Курсач\Курсач\obj\Debug\Курсач.csproj.GenerateResource.cache
+C:\Users\Деметрий\Desktop\Вся хуйня\Акдмрзнца\Курсач\Курсач\obj\Debug\Курсач.csproj.CoreCompileInputs.cache
+C:\Users\Деметрий\Desktop\Вся хуйня\Акдмрзнца\Курсач\Курсач\obj\Debug\Курсач.csproj.CopyComplete
+C:\Users\Деметрий\Desktop\Вся хуйня\Акдмрзнца\Курсач\Курсач\obj\Debug\Курсач.exe
+C:\Users\Деметрий\Desktop\Вся хуйня\Акдмрзнца\Курсач\Курсач\obj\Debug\Курсач.pdb
+C:\Users\Мяк\Downloads\Геналг\Курсач\Курсач\bin\Debug\Курсач.exe.config
+C:\Users\Мяк\Downloads\Геналг\Курсач\Курсач\bin\Debug\Курсач.exe
+C:\Users\Мяк\Downloads\Геналг\Курсач\Курсач\bin\Debug\Курсач.pdb
+C:\Users\Мяк\Downloads\Геналг\Курсач\Курсач\bin\Debug\OxyPlot.dll
+C:\Users\Мяк\Downloads\Геналг\Курсач\Курсач\bin\Debug\OxyPlot.WindowsForms.dll
+C:\Users\Мяк\Downloads\Геналг\Курсач\Курсач\bin\Debug\OxyPlot.xml
+C:\Users\Мяк\Downloads\Геналг\Курсач\Курсач\bin\Debug\OxyPlot.WindowsForms.xml
+C:\Users\Мяк\Downloads\Геналг\Курсач\Курсач\obj\Debug\Курсач.csproj.AssemblyReference.cache
+C:\Users\Мяк\Downloads\Геналг\Курсач\Курсач\obj\Debug\Курсач.Form1.resources
+C:\Users\Мяк\Downloads\Геналг\Курсач\Курсач\obj\Debug\Курсач.Properties.Resources.resources
+C:\Users\Мяк\Downloads\Геналг\Курсач\Курсач\obj\Debug\Курсач.csproj.GenerateResource.cache
+C:\Users\Мяк\Downloads\Геналг\Курсач\Курсач\obj\Debug\Курсач.csproj.CoreCompileInputs.cache
+C:\Users\Мяк\Downloads\Геналг\Курсач\Курсач\obj\Debug\Курсач.csproj.Up2Date
+C:\Users\Мяк\Downloads\Геналг\Курсач\Курсач\obj\Debug\Курсач.exe
+C:\Users\Мяк\Downloads\Геналг\Курсач\Курсач\obj\Debug\Курсач.pdb

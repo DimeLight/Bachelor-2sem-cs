@@ -1,0 +1,15 @@
+C:\Users\Мяк\Downloads\Геналг\Курсач\Курсач\bin\Release\Курсач.exe.config
+C:\Users\Мяк\Downloads\Геналг\Курсач\Курсач\bin\Release\Курсач.exe
+C:\Users\Мяк\Downloads\Геналг\Курсач\Курсач\bin\Release\Курсач.pdb
+C:\Users\Мяк\Downloads\Геналг\Курсач\Курсач\bin\Release\OxyPlot.dll
+C:\Users\Мяк\Downloads\Геналг\Курсач\Курсач\bin\Release\OxyPlot.WindowsForms.dll
+C:\Users\Мяк\Downloads\Геналг\Курсач\Курсач\bin\Release\OxyPlot.xml
+C:\Users\Мяк\Downloads\Геналг\Курсач\Курсач\bin\Release\OxyPlot.WindowsForms.xml
+C:\Users\Мяк\Downloads\Геналг\Курсач\Курсач\obj\Release\Курсач.csproj.AssemblyReference.cache
+C:\Users\Мяк\Downloads\Геналг\Курсач\Курсач\obj\Release\Курсач.Form1.resources
+C:\Users\Мяк\Downloads\Геналг\Курсач\Курсач\obj\Release\Курсач.Properties.Resources.resources
+C:\Users\Мяк\Downloads\Геналг\Курсач\Курсач\obj\Release\Курсач.csproj.GenerateResource.cache
+C:\Users\Мяк\Downloads\Геналг\Курсач\Курсач\obj\Release\Курсач.csproj.CoreCompileInputs.cache
+C:\Users\Мяк\Downloads\Геналг\Курсач\Курсач\obj\Release\Курсач.csproj.Up2Date
+C:\Users\Мяк\Downloads\Геналг\Курсач\Курсач\obj\Release\Курсач.exe
+C:\Users\Мяк\Downloads\Геналг\Курсач\Курсач\obj\Release\Курсач.pdb
